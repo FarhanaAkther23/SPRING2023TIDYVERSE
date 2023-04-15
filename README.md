@@ -139,11 +139,11 @@ In this assignment we will get to practice collaborating around a code project w
 
 Initial Description and Links:
 
-In this assignment we will get to practice collaborating around a code project with GitHub. We will create, and example using one or more TidyVerse packages and demonstrate how to use the capabilities.
-
-We will use a birth dataset from ‘fivethirtyeight.com’. This dataset contains U.S. births data for 1994 - 2003 which, is provided by the Centers for Disease Control and Prevention’s (CDC’s) National Center for Health Statistics (NCNS). We will load the data from their GitHub repository.
-
-
+In this assignment we will get to practice collaborating around a code project with GitHub. We will be practicing our knowledge of Tidyverse functions by creating vignette examples of the packages. 
+I am using a birth dataset from fivethirtyeight.com. This dataset contains U.S. births data for 1994 - 2003 which, is provided by the Centers for Disease Control and Prevention’s (CDC’s) National Center for Health Statistics (NCNS). 
+•	FiveThirtyEight
+•	Github
+•	Rpub 
 
 
 
